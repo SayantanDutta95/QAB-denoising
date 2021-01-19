@@ -1,6 +1,6 @@
 % Sample code of the paper:
 % 
-% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé.
+% Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis KouamÃ©.
 % "Quantum mechanics-based signal and image representation: application to denoising." 
 % arXiv preprint arXiv:2004.01078 (2020).
 % 
@@ -37,7 +37,7 @@ sg = 15; % Gaussian Variance (smoothing)
 % Here one may think why we need S as input, since S is the clean signal.
 % Actually in the program, the clean signal data S is used just to find out the 
 % best thresholding hyperparameter. In the code, one can see that the clean 
-% signal S is only used just for the computation of signal-to-noise-ratio (SNR) 
+% signal S is only used for the computation of signal-to-noise-ratio (SNR) 
 % and based on this one can tune the best thresholding hyperparameter.
 % So, one does not need any knowledge about the clean signal S for computing
 % the quantum adaptive basis (QAB) and can tune the thresholding hyperparameter
