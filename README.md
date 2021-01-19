@@ -9,7 +9,7 @@ To whom it may concern,
 This package includes the MATLAB code for the paper:
  
 Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé.
-"Quantum mechanics-based signal and image denoising." 
+"Quantum mechanics-based signal and image representation: application to denoising." 
 arXiv preprint arXiv:2004.01078 (2020).
 
 MATLAB code prepard by Sayantan Dutta
