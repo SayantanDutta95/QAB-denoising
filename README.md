@@ -14,7 +14,7 @@ Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé, "Quantum m
 
 
 MATLAB code prepard by Sayantan Dutta
-E-mail: sayantan.dutta@irit.fr and sayantan.dutta110@gmail.com
+E-mail: sdu4004@med.cornell.edu and sayantan.dutta110@gmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 This script shows an example of calling our denoising algorithm for signal and image using Quantum adaptative basis (QAB).
 
